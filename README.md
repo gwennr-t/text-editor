@@ -7,7 +7,7 @@ This is a progressive web application(PWA) text editor that runs in the browser.
 [Demo Video]()
 
 ## Installation
-Access the text editor application through the browser using the this [URL]() for the deployed application. 
+Access the text editor application through the browser using the this [URL](https://text-editor-foip.onrender.com/) for the deployed application. 
 
 When viewing the application in the browser you can download the application. This will allow you to use the application offline.
 
